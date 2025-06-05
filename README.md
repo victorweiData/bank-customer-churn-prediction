@@ -12,7 +12,7 @@ This project builds a **recall‑optimised churn‑prediction pipeline** that:
 * Generates **SHAP‑based reason codes** and maps them to tailored save offers.  
 * Quantifies the **profit curve** so business teams know exactly where to stop contacting.
 
-The full workflow lives in [`bank_churn_recall_xgb_optuna.ipynb`](./bank_churn_recall_xgb_optuna.ipynb).
+The full workflow lives in [`bank_churn_recall_xgb_optuna.ipynb`](./bank_churn.ipynb).
 
 ---
 
